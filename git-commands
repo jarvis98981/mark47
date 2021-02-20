@@ -1,0 +1,10 @@
+install git hub
+copy url
+clone it
+git clone url
+cd mark this is directory
+touch mark
+ls
+git add mark
+git commit-m "mark47"
+git
